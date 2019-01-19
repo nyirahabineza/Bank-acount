@@ -1,0 +1,18 @@
+body {
+  background-color:burlywood;
+  color:black;
+}
+
+.container {
+  cursor: pointer;
+ border: 2px solid black;
+  text-align: center;
+  margin-top: 200px; 
+}
+#new-account{
+  display:none;
+}
+
+
+
+
